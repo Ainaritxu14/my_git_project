@@ -1,6 +1,6 @@
 # My git project
 
-> My code for the git project
+> My scare mergin code for the git project
 
 ## I am in the feature branch
 
