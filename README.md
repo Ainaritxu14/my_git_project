@@ -1,6 +1,6 @@
 # My git project
 
-> My code for the git project
+> My inocent code
 
 ## I am in the feature branch
 
